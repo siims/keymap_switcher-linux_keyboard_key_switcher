@@ -3,8 +3,8 @@ import subprocess
 import requests
 import atexit
 
-PORT = 8081
-PROXY_URL = "http://localhost:8080"
+PORT = 18081
+PROXY_URL = "http://localhost:18080"
 
 app = Flask(__name__)
 
